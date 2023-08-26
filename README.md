@@ -48,8 +48,8 @@ deno run --allow-all --watch get.ts de,fr,en,hu en,nl,fr,es
 ## Generate data (refresh)
 
 Run the following command and sit back for a while.
-This will fetch language labels from WikiData nd DBpedia.
+This will fetch language labels from WikiData and DBpedia.
 
 ```
-deno run --allow-all --watch generate.ts
+deno run --allow-all generate.ts
 ```
